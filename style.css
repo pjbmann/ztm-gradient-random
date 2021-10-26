@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    transition-duration: 1s;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+
+h2 {
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(253, 145, 145), rgb(138, 138, 255));
+}
+
+input {
+    padding: 0px;
+}
+
+#randomColor {
+    margin: 0.5em;
+    padding: 0px;
+}
